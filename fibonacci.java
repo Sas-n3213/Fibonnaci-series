@@ -1,5 +1,5 @@
 	
-public class pattern {
+public class Fibonnaci series {
 	
 	public static void main(String[] args) {
 		int a=0,b=1;
